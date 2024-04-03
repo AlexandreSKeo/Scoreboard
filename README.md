@@ -1,13 +1,14 @@
-# co3b847c389a9516d3a1f3f48
+# Basketball Scoreboard
 
 Quick start:
 
 ```
 $ npm install
 $ npm start
-````
+```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
